@@ -11,7 +11,7 @@
 		"prefix": "/app/extensions"
 	},
 	"modules": [
-                "python3-requirements.json",
+		"python3-requirements.json",
 		{
 			"name": "puzzle-sets-pzzl",
 			"buildsystem": "meson",
@@ -22,8 +22,8 @@
 				{
 					"type": "git",
 					"url": "https://gitlab.gnome.org/philip.goto/puzzle-sets-pzzl.git",
-					"tag": "2.0",
-					"commit": "38bb3f34887f261948b0cd24e4f3f92cce073d12"
+					"tag": "3.0",
+					"commit": "f3f3adb001dea22339c2bbbe2e813ea07d63ac1e"
 				}
 			],
 			"post-install": [
