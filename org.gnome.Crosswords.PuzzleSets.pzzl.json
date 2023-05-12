@@ -22,8 +22,8 @@
 				{
 					"type": "git",
 					"url": "https://gitlab.gnome.org/philip.goto/puzzle-sets-pzzl.git",
-					"tag": "4.0",
-					"commit": "49eacdf1e95c0a2298a2dfc00616d8ddb9066f94"
+					"tag": "4.1",
+					"commit": "3f324e6b6b354c22dc7a3b951e5315c5e7810fbe"
 				}
 			],
 			"post-install": [
